@@ -6,3 +6,7 @@
 
 | [Yipmong Said](https://github.com/syipmong) <br> <img src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" width="100" height="100">   | Nigeria                | Python & JavaScript                     |    https://twitter.com/syipmong/
 
+| [Yipmong Said](https://github.com/syipmong) <br> <img src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" width="100" height="100">   | Nigeria                | Python & JavaScript                     |    https://twitter.com/syipmong/
+
+
+| [Yipmong Said](https://github.com/syipmong) <br> <img src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" width="100" height="100">   | Nigeria                | Python & JavaScript                     |    https://twitter.com/syipmong/
