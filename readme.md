@@ -2,7 +2,7 @@
 - it is only for educational purposes
 - This code is an open source code for anybody who wishes to copy and share 
 - Most of the functions were sourced across web
-** Please Do not forget to give me a ***Star**
+** Please Do not forget to give me a **Star**
 
 
 
